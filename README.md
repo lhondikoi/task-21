@@ -1,5 +1,15 @@
 # Screenshots
 
+<img src="./img/exercise_1.png">
+<img src="./img/exercise_2.png">
+<img src="./img/exercise_3.png">
+<img src="./img/exercise_4.png">
+<img src="./img/exercise_5.png">
+<img src="./img/exercise_6.png">
+<img src="./img/exercise_7.png">
+<img src="./img/exercise_8.png">
+<img src="./img/exercise_9.png">
+<img src="./img/exercise_10.png">
 ![Exercise 1](https://github.com/lhondikoi/task-21/blob/main/exercise_1.png?raw=true)
 ![Exercise 2](https://github.com/lhondikoi/task-21/blob/main/exercise_2.png?raw=true)
 ![Exercise 3](https://github.com/lhondikoi/task-21/blob/main/exercise_3.png?raw=true)
